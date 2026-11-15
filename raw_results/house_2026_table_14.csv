@@ -1,0 +1,96 @@
+Response category,DEM,GOP,% of total vote
+Total vote,56,43,100
+Ideology,Ideology,Ideology,Ideology
+Liberals,97,2,26
+Moderates,66,32,41
+Conservatives,10,89,33
+Party,Party,Party,Party
+Democrats,98,2,35
+Republicans,6,93,32
+Independents,58,38,23
+Do you consider yourself MAGA?,Do you consider yourself MAGA?,Do you consider yourself MAGA?,Do you consider yourself MAGA?
+Yes,3,97,24
+No,72,26,75
+Do you consider yourself a democratic socialist?,Do you consider yourself a democratic socialist?,Do you consider yourself a democratic socialist?,Do you consider yourself a democratic socialist?
+Yes,98,2,18
+No,46,52,81
+Donald Trump job approval?,Donald Trump job approval?,Donald Trump job approval?,Donald Trump job approval?
+Strongly approve,2,98,20
+Somewhat approve,5,93,17
+Somewhat disapprove,33,63,8
+Strongly disapprove,94,4,54
+2024 presidential vote,2024 presidential vote,2024 presidential vote,2024 presidential vote
+Kamala Harris,97,2,49
+Donald Trump,7,91,44
+Another candidate,57,30,2
+Did not vote,70,25,4
+Gender,Gender,Gender,Gender
+Men,50,48,45
+Women,59,40,54
+Income,Income,Income,Income
+"$200,000 or more",58,40,12
+"$100,000-$199,999",54,44,29
+"$50,000-$99,999",54,45,31
+"$30,000-$49,999",55,43,15
+"Less than $30,000",59,39,13
+Race/ethnicity,Race/ethnicity,Race/ethnicity,Race/ethnicity
+White,49,49,73
+Asian,71,28,4
+Latino,64,34,10
+Black,90,9,9
+All other voters,54,43,5
+White born-again or evangelical Christian?,White born-again or evangelical Christian?,White born-again or evangelical Christian?,White born-again or evangelical Christian?
+Yes,16,82,17
+No,63,35,83
+Race by gender,Race by gender,Race by gender,Race by gender
+White men,45,53,35
+White women,52,46,38
+Black men,86,12,4
+Black women,93,6,5
+Latino men,58,39,5
+Latina women,68,30,5
+All other voters,63,34,9
+Age,Age,Age,Age
+18–29 years old,73,25,11
+30–44 years old,62,36,20
+45-64 years old,52,47,34
+65 and older,50,50,36
+Area type,Area type,Area type,Area type
+Urban,72,27,20
+Suburban,59,40,45
+Rural,41,57,35
+Education,Education,Education,Education
+College graduate,63,35,47
+No college degree,48,50,53
+Education by race,Education by race,Education by race,Education by race
+White college graduates,60,39,35
+Non-white college graduates,74,25,12
+Whites without college,39,60,38
+Non-whites without college,70,28,15
+Education by gender and race,Education by gender and race,Education by gender and race,Education by gender and race
+White women with college degrees,64,35,18
+White women without college degrees,41,57,19
+White men with college degrees,55,43,17
+White men without college degrees,35,63,18
+Voters of color,72,26,27
+Educational attainment,Educational attainment,Educational attainment,Educational attainment
+Advanced degree,68,31,20
+Bachelor's degree,60,38,27
+Associate's degree,49,49,11
+Some college education,50,48,21
+Never attended college,44,54,23
+Are you LGBTQ?,Are you LGBTQ?,Are you LGBTQ?,Are you LGBTQ?
+Yes,86,12,8
+No,52,46,92
+Union households,Union households,Union households,Union households
+Yes,60,38,16
+No,54,44,84
+Military service,Military service,Military service,Military service
+Veterans,41,57,10
+Non-veterans,57,42,90
+Region,Region,Region,Region
+Northeast,61,38,20
+Midwest,53,45,22
+South,50,49,35
+West,60,38,23
+,,,
