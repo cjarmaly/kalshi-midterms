@@ -1,0 +1,521 @@
+race_key,chamber,state,caption,party,party_raw,candidate,votes,pct
+H-AL-01,House,AL,2026 Alabama's 1st congressional district election,REP,Republican,Jerry Carl,137025,59.07
+H-AL-01,House,AL,2026 Alabama's 1st congressional district election,DEM,Democratic,Clyde Jones,94940,40.93
+H-AL-02,House,AL,2026 Alabama's 2nd congressional district election,DEM,Democratic,Shomari Figures,124422,53.75
+H-AL-02,House,AL,2026 Alabama's 2nd congressional district election,REP,Republican,Rhett Marques,107049,46.25
+H-AL-03,House,AL,2026 Alabama's 3rd congressional district election,REP,Republican,Mike Rogers,141800,64
+H-AL-03,House,AL,2026 Alabama's 3rd congressional district election,DEM,Democratic,Lee McInnis,79926,36
+H-AL-04,House,AL,2026 Alabama's 4th congressional district election,REP,Republican,Robert Aderholt,160008,74.9
+H-AL-04,House,AL,2026 Alabama's 4th congressional district election,DEM,Democratic,Amanda Pusczek,53633,25.1
+H-AL-05,House,AL,2026 Alabama's 5th congressional district election,REP,Republican,Dale Strong,152080,53.2
+H-AL-05,House,AL,2026 Alabama's 5th congressional district election,DEM,Democratic,Andrew Sneed,124763,46.8
+H-AL-06,House,AL,2026 Alabama's 6th congressional district election,REP,Republican,Gary Palmer,149921,57.5
+H-AL-06,House,AL,2026 Alabama's 6th congressional district election,DEM,Democratic,Maurice Mercer,110957,42.5
+H-AL-07,House,AL,2026 Alabama's 7th congressional district election,DEM,Democratic,Terri Sewell,174823,69.4
+H-AL-07,House,AL,2026 Alabama's 7th congressional district election,REP,Republican,Ammie Akin,77085,30.6
+H-AK-AL,House,AK,2026 Alaska's at-large congressional district election[84][85],REP,Republican,Nick Begich III,133707,47.71
+H-AK-AL,House,AK,2026 Alaska's at-large congressional district election[84][85],OTH,Nonpartisan,Bill Hill,116932,41.72
+H-AK-AL,House,AK,2026 Alaska's at-large congressional district election[84][85],DEM,Democratic,Eric Hafner,21815,7.78
+H-AK-AL,House,AK,2026 Alaska's at-large congressional district election[84][85],OTH,Libertarian,"James C. ""Jim"" McDermott",7384,2.63
+H-AR-01,House,AR,2026 Arkansas's 1st congressional district election,REP,Republican,Rick Crawford,127100,65.5
+H-AR-01,House,AR,2026 Arkansas's 1st congressional district election,DEM,Democratic,Terri Yarbrough,60150,31
+H-AR-01,House,AR,2026 Arkansas's 1st congressional district election,OTH,Libertarian,Steve Parsons,6944,3.6
+H-AR-02,House,AR,2026 Arkansas's 2nd congressional district election,REP,Republican,French Hill,127452,50.9
+H-AR-02,House,AR,2026 Arkansas's 2nd congressional district election,DEM,Democratic,Chris Jones,123096,49.1
+H-CO-02,House,CO,2026 Colorado's 2nd congressional district election,DEM,Democratic,Joe Neguse,273365,74.5
+H-CO-02,House,CO,2026 Colorado's 2nd congressional district election,REP,Republican,Kelley Dennison,86414,23.6
+H-CO-02,House,CO,2026 Colorado's 2nd congressional district election,OTH,Libertarian,Gaylon Kent,6930,1.9
+H-CO-03,House,CO,2026 Colorado's 3rd congressional district election,REP,Republican,Jeff Hurd,163817,49.3
+H-CO-03,House,CO,2026 Colorado's 3rd congressional district election,DEM,Democratic,Dwayne Romero,157660,47.4
+H-CT-01,House,CT,2026 Connecticut's 1st congressional district election[48],DEM,Democratic,Luke Bronin,170479,67.28
+H-CT-01,House,CT,2026 Connecticut's 1st congressional district election[48],REP,Republican,Amy Chai,78461,30.96
+H-CT-01,House,CT,2026 Connecticut's 1st congressional district election[48],OTH,Green,Mary L. Sanders,4435,1.75
+H-CT-02,House,CT,2026 Connecticut's 2nd congressional district election[48],DEM,Democratic,Joe Courtney,182381,62.45
+H-CT-02,House,CT,2026 Connecticut's 2nd congressional district election[48],REP,Republican,George Austin,103585,35.47
+H-CT-02,House,CT,2026 Connecticut's 2nd congressional district election[48],OTH,Independent Party,George Austin,6068,2.08
+H-CT-03,House,CT,2026 Connecticut's 3rd congressional district election[48],DEM,Democratic,Rosa DeLauro,151261,61.21
+H-CT-03,House,CT,2026 Connecticut's 3rd congressional district election[48],REP,Republican,Christopher Lancia,87885,35.56
+H-CT-03,House,CT,2026 Connecticut's 3rd congressional district election[48],OTH,Independent Party,Thomas Egan,7322,2.96
+H-CT-04,House,CT,2026 Connecticut's 4th congressional district election[48],DEM,Democratic,Jim Himes,157485,65.58
+H-CT-04,House,CT,2026 Connecticut's 4th congressional district election[48],REP,Republican,Michael Goldstein,78059,32.51
+H-CT-04,House,CT,2026 Connecticut's 4th congressional district election[48],OTH,Independent Party,Benjamin Wesley,4594,1.91
+H-CT-05,House,CT,2026 Connecticut's 5th congressional district election[48],DEM,Democratic,Jahana Hayes,139000,54.93
+H-CT-05,House,CT,2026 Connecticut's 5th congressional district election[48],OTH,Working Families,Jahana Hayes,7353,2.91
+H-CT-05,House,CT,2026 Connecticut's 5th congressional district election[48],REP,Republican,Chris Shea,106667,42.15
+H-FL-01,House,FL,2026 Florida's 1st congressional district election,REP,Republican,Jimmy Patronis,181944,62.5
+H-FL-01,House,FL,2026 Florida's 1st congressional district election,DEM,Democratic,Gay Valimont,103729,35.6
+H-FL-01,House,FL,2026 Florida's 1st congressional district election,OTH,Independent,Tyler Davis,5337,1.8
+H-FL-02,House,FL,2026 Florida's 2nd congressional district election,REP,Republican,Austin Rogers,161148,52.1
+H-FL-02,House,FL,2026 Florida's 2nd congressional district election,DEM,Democratic,Amanda Green,148215,47.9
+H-FL-03,House,FL,2026 Florida's 3rd congressional district election,REP,Republican,Kat Cammack,165655,55.1
+H-FL-03,House,FL,2026 Florida's 3rd congressional district election,DEM,Democratic,Seth Harp,129139,43
+H-FL-03,House,FL,2026 Florida's 3rd congressional district election,OTH,Independent,Mike Klein,5617,1.9
+H-FL-04,House,FL,2026 Florida's 4th congressional district election,REP,Republican,Aaron Bean,151163,50.2
+H-FL-04,House,FL,2026 Florida's 4th congressional district election,DEM,Democratic,LaShonda Holloway,144796,48.1
+H-FL-04,House,FL,2026 Florida's 4th congressional district election,OTH,Independent,Todd Schaefer,3194,1.1
+H-FL-04,House,FL,2026 Florida's 4th congressional district election,OTH,Forward,Mike Sell,1832,0.6
+H-FL-05,House,FL,2026 Florida's 5th congressional district election,REP,Republican,John Rutherford,188062,56.4
+H-FL-05,House,FL,2026 Florida's 5th congressional district election,DEM,Democratic,Rachel Grage,145296,43.6
+H-GA-01,House,GA,2026 Georgia's 1st congressional district election,REP,Republican,Jim Kingston,140266,51.4
+H-GA-01,House,GA,2026 Georgia's 1st congressional district election,DEM,Democratic,Amanda Hollowell,132609,48.6
+H-GA-09,House,GA,2026 Georgia's 9th congressional district election,REP,Republican,Andrew Clyde,182886,59.3
+H-GA-09,House,GA,2026 Georgia's 9th congressional district election,DEM,Democratic,Caitlyn Gegan,125526,40.7
+H-IN-01,House,IN,2026 Indiana's 1st congressional district election,DEM,Democratic,Frank Mrvan,142213,63
+H-IN-01,House,IN,2026 Indiana's 1st congressional district election,REP,Republican,Barb Regnitz,83468,37
+H-IN-03,House,IN,2026 Indiana's 3rd congressional district election,REP,Republican,Marlin Stutzman,109692,54.9
+H-IN-03,House,IN,2026 Indiana's 3rd congressional district election,DEM,Democratic,Kelly Thompson,90180,45.1
+H-IN-04,House,IN,2026 Indiana's 4th congressional district election,REP,Republican,Jim Baird,115014,54.2
+H-IN-04,House,IN,2026 Indiana's 4th congressional district election,DEM,Democratic,Drew Cox,97142,45.8
+H-IN-05,House,IN,2026 Indiana's 5th congressional district election,DEM,Democratic,J.D. Ford,134476,51.7
+H-IN-05,House,IN,2026 Indiana's 5th congressional district election,REP,Republican,Victoria Spartz,125851,48.3
+H-IN-06,House,IN,2026 Indiana's 6th congressional district election,REP,Republican,Jefferson Shreve,111116,55.1
+H-IN-06,House,IN,2026 Indiana's 6th congressional district election,DEM,Democratic,Cynthia Wirth,90576,44.9
+H-IN-07,House,IN,2026 Indiana's 7th congressional district election,DEM,Democratic,André Carson,159211,77
+H-IN-07,House,IN,2026 Indiana's 7th congressional district election,REP,Republican,Patrick McAuley,42208,20.4
+H-IN-07,House,IN,2026 Indiana's 7th congressional district election,OTH,Libertarian,James Sceniak,5452,2.6
+H-IN-08,House,IN,2026 Indiana's 8th congressional district election,REP,Republican,Mark Messmer,117667,55.2
+H-IN-08,House,IN,2026 Indiana's 8th congressional district election,DEM,Democratic,Mary Allen,95317,44.8
+H-IN-09,House,IN,2026 Indiana's 9th congressional district election,REP,Republican,Erin Houchin,122326,54
+H-IN-09,House,IN,2026 Indiana's 9th congressional district election,DEM,Democratic,Brad Meyer,98480,43.5
+H-IN-09,House,IN,2026 Indiana's 9th congressional district election,OTH,Libertarian,Tonya Hudson,5530,2.4
+H-IA-01,House,IA,2026 Iowa's 1st congressional district election,DEM,Democratic,Christina Bohannan,182396,52.8
+H-IA-01,House,IA,2026 Iowa's 1st congressional district election,REP,Republican,Mariannette Miller-Meeks,150471,43.6
+H-IA-01,House,IA,2026 Iowa's 1st congressional district election,OTH,Independent,Michael Bridgford,12603,3.6
+H-IA-02,House,IA,2026 Iowa's 2nd congressional district election,DEM,Democratic,Lindsay James,171512,49.5
+H-IA-02,House,IA,2026 Iowa's 2nd congressional district election,REP,Republican,Joe Mitchell,157722,45.6
+H-IA-02,House,IA,2026 Iowa's 2nd congressional district election,OTH,Independent,Dave Bushaw,7470,2.2
+H-IA-03,House,IA,2026 Iowa's 3rd congressional district election,DEM,Democratic,Sarah Trone Garriott,189349,53.6
+H-IA-03,House,IA,2026 Iowa's 3rd congressional district election,REP,Republican,Zach Nunn,163631,46.6
+H-IA-04,House,IA,2026 Iowa's 4th congressional district election,REP,Republican,Chris McGowan,178845,59.1
+H-IA-04,House,IA,2026 Iowa's 4th congressional district election,DEM,Democratic,Dave Dawson,123940,40.9
+H-KY-01,House,KY,2026 Kentucky's 1st congressional district election[16],REP,Republican,James R. Comer,154910,67.6
+H-KY-01,House,KY,2026 Kentucky's 1st congressional district election[16],DEM,Democratic,"John ""Drew"" Williams",74260,32.4
+H-KY-02,House,KY,2026 Kentucky's 2nd congressional district election[16],REP,Republican,S. Brett Guthrie,145139,62.82
+H-KY-02,House,KY,2026 Kentucky's 2nd congressional district election[16],DEM,Democratic,Megan Wingfield,81112,35.1
+H-KY-02,House,KY,2026 Kentucky's 2nd congressional district election[16],OTH,Independent,Thomas A. Loecken,4807,2.08
+H-KY-03,House,KY,2026 Kentucky's 3rd congressional district election[16],DEM,Democratic,Morgan McGarvey,174781,70.33
+H-KY-03,House,KY,2026 Kentucky's 3rd congressional district election[16],REP,Republican,Maria Teresa Rodriguez,73719,29.67
+H-KY-04,House,KY,2026 Kentucky's 4th congressional district election[16],REP,Republican,Ed Gallrein,137623,54.22
+H-KY-04,House,KY,2026 Kentucky's 4th congressional district election[16],DEM,Democratic,Melissa Claire Strange,103713,40.86
+H-KY-04,House,KY,2026 Kentucky's 4th congressional district election[16],OTH,Libertarian,Jeremy Todd,12484,4.92
+H-KY-05,House,KY,2026 Kentucky's 5th congressional district election[16],REP,Republican,Hal Rogers,139808,71.16
+H-KY-05,House,KY,2026 Kentucky's 5th congressional district election[16],DEM,Democratic,Ned Pillersdorf,49805,25.35
+H-KY-05,House,KY,2026 Kentucky's 5th congressional district election[16],OTH,Independent,Mikel Wein,4117,2.1
+H-KY-05,House,KY,2026 Kentucky's 5th congressional district election[16],OTH,Independent,Gerardo Serrano,2738,1.39
+H-KY-06,House,KY,2026 Kentucky's 6th congressional district election[16],DEM,Democratic,Zach Dembo,138777,52.65
+H-KY-06,House,KY,2026 Kentucky's 6th congressional district election[16],REP,Republican,Ralph Alvarado,114030,43.27
+H-KY-06,House,KY,2026 Kentucky's 6th congressional district election[16],OTH,Independent,Jay J. Bowman,6710,2.55
+H-KY-06,House,KY,2026 Kentucky's 6th congressional district election[16],OTH,Kentucky,Pete Lynch,3836,1.46
+H-LA-01,House,LA,2026 Louisiana's 1st congressional district election,REP,Republican,Steve Scalise,159896,60.71
+H-LA-01,House,LA,2026 Louisiana's 1st congressional district election,DEM,Democratic,Lauren Jewett,89440,33.96
+H-LA-01,House,LA,2026 Louisiana's 1st congressional district election,REP,Republican,Randall Arrington,9776,3.71
+H-LA-01,House,LA,2026 Louisiana's 1st congressional district election,OTH,Independent,E. Glass,4279,1.62
+H-LA-02,House,LA,2026 Louisiana's 2nd congressional district election,DEM,Democratic,Troy Carter,192286,79.9
+H-LA-02,House,LA,2026 Louisiana's 2nd congressional district election,REP,Republican,Peter Williams,36369,15.1
+H-LA-02,House,LA,2026 Louisiana's 2nd congressional district election,OTH,Libertarian,Lisa Ballay,6409,2.7
+H-LA-02,House,LA,2026 Louisiana's 2nd congressional district election,DEM,Democratic,Renada Collins,2999,1.2
+H-LA-02,House,LA,2026 Louisiana's 2nd congressional district election,OTH,Independent,Walker Beach,2553,1.1
+H-LA-03,House,LA,2026 Louisiana's 3rd congressional district election,REP,Republican,Clay Higgins,129203,55
+H-LA-03,House,LA,2026 Louisiana's 3rd congressional district election,DEM,Democratic,John Day,49163,20.9
+H-LA-03,House,LA,2026 Louisiana's 3rd congressional district election,DEM,Democratic,Caleb Walker,19932,8.5
+H-LA-03,House,LA,2026 Louisiana's 3rd congressional district election,DEM,Democratic,Priscilla Gonzalez,16828,7.2
+H-LA-03,House,LA,2026 Louisiana's 3rd congressional district election,REP,Republican,Kate Cotten,15661,6.7
+H-LA-03,House,LA,2026 Louisiana's 3rd congressional district election,OTH,Independent,Tia LeBrun,4208,1.8
+H-LA-04,House,LA,2026 Louisiana's 4th congressional district election,REP,Republican,Mike Johnson,134750,58.5
+H-LA-04,House,LA,2026 Louisiana's 4th congressional district election,DEM,Democratic,Conrad Cable,52899,23
+H-LA-04,House,LA,2026 Louisiana's 4th congressional district election,DEM,Democratic,Matt Gromlich,32868,14.3
+H-LA-04,House,LA,2026 Louisiana's 4th congressional district election,REP,Republican,Mike Nichols,7271,3.2
+H-LA-04,House,LA,2026 Louisiana's 4th congressional district election,REP,Republican,Gordon Heslop,2571,1.1
+H-LA-05,House,LA,2026 Louisiana's 5th congressional district election,DEM,Democratic,Patricia Moore,40796,17.9
+H-LA-05,House,LA,2026 Louisiana's 5th congressional district election,REP,Republican,Gabe Firment,39131,17.2
+H-LA-05,House,LA,2026 Louisiana's 5th congressional district election,REP,Republican,Misti Cordell,33381,14.6
+H-LA-05,House,LA,2026 Louisiana's 5th congressional district election,REP,Republican,Michael Echols,32915,14.4
+H-LA-05,House,LA,2026 Louisiana's 5th congressional district election,REP,Republican,Stewart Cathey Jr.,28173,12.4
+H-LA-05,House,LA,2026 Louisiana's 5th congressional district election,DEM,Democratic,Antonio Wilson,27378,12
+H-LA-05,House,LA,2026 Louisiana's 5th congressional district election,DEM,Democratic,Dan McKay,16056,7
+H-LA-05,House,LA,2026 Louisiana's 5th congressional district election,REP,Republican,Austin Magee,7920,3.5
+H-LA-05,House,LA,2026 Louisiana's 5th congressional district election,REP,Republican,Oscar Dantzler,2238,1
+H-LA-06,House,LA,2026 Louisiana's 6th congressional district election,DEM,Democratic,Chauna Banks,50882,19.4
+H-LA-06,House,LA,2026 Louisiana's 6th congressional district election,REP,Republican,Blake Miguez,50214,19.2
+H-LA-06,House,LA,2026 Louisiana's 6th congressional district election,REP,Republican,Rick Edmonds,49242,18.8
+H-LA-06,House,LA,2026 Louisiana's 6th congressional district election,DEM,Democratic,Lindsay Garcia,33544,12.8
+H-LA-06,House,LA,2026 Louisiana's 6th congressional district election,REP,Republican,Stephen Wagley,28169,10.8
+H-LA-06,House,LA,2026 Louisiana's 6th congressional district election,DEM,Democratic,Pat Forbes,23822,9.1
+H-LA-06,House,LA,2026 Louisiana's 6th congressional district election,REP,Republican,Larry Davis,11359,4.3
+H-LA-06,House,LA,2026 Louisiana's 6th congressional district election,REP,Republican,Monique Appeaning,8110,3.1
+H-LA-06,House,LA,2026 Louisiana's 6th congressional district election,OTH,Libertarian,Rufus Craig,3461,1.3
+H-LA-06,House,LA,2026 Louisiana's 6th congressional district election,REP,Republican,Michael Mebruer,3160,1.2
+H-MD-01,House,MD,2026 Maryland's 1st congressional district election[32],REP,Republican,Andy Harris,165256,52.12
+H-MD-01,House,MD,2026 Maryland's 1st congressional district election[32],DEM,Democratic,Dan Schwartz,151285,47.71
+H-MD-02,House,MD,2026 Maryland's 2nd congressional district election[32],DEM,Democratic,Johnny Olszewski,189851,65.04
+H-MD-02,House,MD,2026 Maryland's 2nd congressional district election[32],REP,Republican,Dave Wallace,101464,34.76
+H-MD-03,House,MD,2026 Maryland's 3rd congressional district election[32],DEM,Democratic,Sarah Elfreth,212087,67.74
+H-MD-03,House,MD,2026 Maryland's 3rd congressional district election[32],REP,Republican,Berney Flowers,100088,31.97
+H-MD-07,House,MD,2026 Maryland's 7th congressional district election[32],DEM,Democratic,Kweisi Mfume,186917,85.12
+H-MD-07,House,MD,2026 Maryland's 7th congressional district election[32],REP,Republican,Scott Collier,31816,14.49
+H-MI-01,House,MI,2026 Michigan's 1st congressional district election results[42],REP,Republican,Jack Bergman,216960,53.78
+H-MI-01,House,MI,2026 Michigan's 1st congressional district election results[42],DEM,Democratic,Callie Barr,178381,44.22
+H-MI-01,House,MI,2026 Michigan's 1st congressional district election results[42],OTH,Libertarian,Arnett Satterla,2757,0.68
+H-MI-01,House,MI,2026 Michigan's 1st congressional district election results[42],OTH,Working Class,Liz Hakola,2383,0.59
+H-MI-01,House,MI,2026 Michigan's 1st congressional district election results[42],OTH,U.S. Taxpayers,Doc Kovaly,1229,0.3
+H-MI-01,House,MI,2026 Michigan's 1st congressional district election results[42],OTH,Green,LaVeta Davenport,773,0.19
+H-MI-01,House,MI,2026 Michigan's 1st congressional district election results[42],OTH,Independent,Zebulon Featherly,922,0.23
+H-MI-02,House,MI,2026 Michigan's 2nd congressional district election results[42],REP,Republican,John Moolenaar,219430,61.46
+H-MI-02,House,MI,2026 Michigan's 2nd congressional district election results[42],DEM,Democratic,Benjamin Ambrose,131988,36.97
+H-MI-02,House,MI,2026 Michigan's 2nd congressional district election results[42],OTH,Green,Charlotte Magoon,3838,1.08
+H-MI-02,House,MI,2026 Michigan's 2nd congressional district election results[42],OTH,Natural Law,Richard Sills,1754,0.49
+H-MI-03,House,MI,2026 Michigan's 3rd congressional district election results[42],DEM,Democratic,Hillary Scholten,211061,57.14
+H-MI-03,House,MI,2026 Michigan's 3rd congressional district election results[42],REP,Republican,Terri DeBoer,152988,41.42
+H-MI-03,House,MI,2026 Michigan's 3rd congressional district election results[42],OTH,Independent,Joe Jock,5339,1.44
+H-MI-04,House,MI,2026 Michigan's 4th congressional district election results[42],DEM,Democratic,Sean McCann,184257,50.12
+H-MI-04,House,MI,2026 Michigan's 4th congressional district election results[42],REP,Republican,Bill Huizenga,177753,48.35
+H-MI-04,House,MI,2026 Michigan's 4th congressional district election results[42],OTH,Green,Shafina Che Barnett,5652,1.53
+H-MI-05,House,MI,2026 Michigan's 5th congressional district election results[42],REP,Republican,Tim Walberg,199085,59.13
+H-MI-05,House,MI,2026 Michigan's 5th congressional district election results[42],DEM,Democratic,Christian Vukasovich,130085,38.55
+H-MI-05,House,MI,2026 Michigan's 5th congressional district election results[42],OTH,Libertarian,Ronald Muszynski,3463,1.03
+H-MI-05,House,MI,2026 Michigan's 5th congressional district election results[42],OTH,U.S. Taxpayers,Sharon Reiner,3125,0.93
+H-MI-05,House,MI,2026 Michigan's 5th congressional district election results[42],OTH,Green,Jim Bronke,1232,0.36
+H-MI-06,House,MI,2026 Michigan's 6th congressional district election results[42],DEM,Democratic,Debbie Dingell,274617,67.45
+H-MI-06,House,MI,2026 Michigan's 6th congressional district election results[42],REP,Republican,Heather Smiley,123423,30.31
+H-MI-06,House,MI,2026 Michigan's 6th congressional district election results[42],OTH,Working Class,Linda Rayburn,3017,0.74
+H-MI-06,House,MI,2026 Michigan's 6th congressional district election results[42],OTH,Libertarian,Timothy Teagan,2836,0.7
+H-MI-06,House,MI,2026 Michigan's 6th congressional district election results[42],OTH,Green,Clyde Shabazz,2194,0.54
+H-MI-06,House,MI,2026 Michigan's 6th congressional district election results[42],OTH,U.S. Taxpayers,Mike Mickevicius,1074,0.26
+H-MI-07,House,MI,2026 Michigan's 7th congressional district election results[42],DEM,Democratic,William Lawrence,202657,51.03
+H-MI-07,House,MI,2026 Michigan's 7th congressional district election results[42],REP,Republican,Tom Barrett,189482,47.71
+H-MI-07,House,MI,2026 Michigan's 7th congressional district election results[42],OTH,Green,Shane Dedrick,4974,1.26
+H-MI-08,House,MI,2026 Michigan's 8th congressional district election results[42],DEM,Democratic,Kristen McDonald Rivet,195849,55.52
+H-MI-08,House,MI,2026 Michigan's 8th congressional district election results[42],REP,Republican,Thomas Smith,147851,41.91
+H-MI-08,House,MI,2026 Michigan's 8th congressional district election results[42],OTH,Working Class,Kathy Goodwin,5169,1.47
+H-MI-08,House,MI,2026 Michigan's 8th congressional district election results[42],OTH,Libertarian,C. Mia Pettus,2857,0.81
+H-MI-08,House,MI,2026 Michigan's 8th congressional district election results[42],OTH,Green,Jim Casha,1044,0.29
+H-MI-09,House,MI,2026 Michigan's 9th congressional district election results[42],REP,Republican,Lisa McClain,247817,62.64
+H-MI-09,House,MI,2026 Michigan's 9th congressional district election results[42],DEM,Democratic,Ray Pooley,137275,34.7
+H-MI-09,House,MI,2026 Michigan's 9th congressional district election results[42],OTH,Working Class,Jim Walkowicz,4088,1.03
+H-MI-09,House,MI,2026 Michigan's 9th congressional district election results[42],OTH,Libertarian,Kevin Vayko,3455,0.87
+H-MI-09,House,MI,2026 Michigan's 9th congressional district election results[42],OTH,U.S. Taxpayers,John Vlahos,1578,0.4
+H-MI-09,House,MI,2026 Michigan's 9th congressional district election results[42],OTH,Green,Destiny Clayton,1377,0.34
+H-MI-10,House,MI,2026 Michigan's 10th congressional district election results[42],DEM,Democratic,Christina Hines,188078,52.44
+H-MI-10,House,MI,2026 Michigan's 10th congressional district election results[42],REP,Republican,Michael Bouchard,162347,45.26
+H-MI-10,House,MI,2026 Michigan's 10th congressional district election results[42],OTH,Working Class,Andrea Kirby,3978,1.11
+H-MI-10,House,MI,2026 Michigan's 10th congressional district election results[42],OTH,Libertarian,Mike Saliba,3088,0.86
+H-MI-10,House,MI,2026 Michigan's 10th congressional district election results[42],OTH,Green,Kwabena Nkromo,1174,0.33
+H-MI-11,House,MI,2026 Michigan's 11th congressional district election results[42],DEM,Democratic,Jeremy Moss,238750,60.86
+H-MI-11,House,MI,2026 Michigan's 11th congressional district election results[42],REP,Republican,Ethan Baker,144529,36.84
+H-MI-11,House,MI,2026 Michigan's 11th congressional district election results[42],OTH,Independent,Anil Kumar,3174,0.81
+H-MI-11,House,MI,2026 Michigan's 11th congressional district election results[42],OTH,Libertarian,Farid Ishac,2946,0.75
+H-MI-11,House,MI,2026 Michigan's 11th congressional district election results[42],OTH,Green,Ryan Teasdale,2902,0.74
+H-MI-12,House,MI,2026 Michigan's 12th congressional district election results[42],DEM,Democratic,Rashida Tlaib,247185,75.98
+H-MI-12,House,MI,2026 Michigan's 12th congressional district election results[42],REP,Republican,James Hooper,68960,21.2
+H-MI-12,House,MI,2026 Michigan's 12th congressional district election results[42],OTH,Working Class,Gary Walkowicz,3776,1.16
+H-MI-12,House,MI,2026 Michigan's 12th congressional district election results[42],OTH,Green,Brenda K. Sanders,3365,1.03
+H-MI-12,House,MI,2026 Michigan's 12th congressional district election results[42],OTH,U.S. Taxpayers,Marc Sosnowski,2036,0.63
+H-MI-13,House,MI,2026 Michigan's 13th congressional district election results[42],DEM,Democratic,Donavan McKinney,209882,76.51
+H-MI-13,House,MI,2026 Michigan's 13th congressional district election results[42],REP,Republican,T.P. Nykoriak,54484,19.86
+H-MI-13,House,MI,2026 Michigan's 13th congressional district election results[42],OTH,Working Class,Simone Coleman,5743,2.09
+H-MI-13,House,MI,2026 Michigan's 13th congressional district election results[42],OTH,U.S. Taxpayers,Chris Dardzinski,2666,0.97
+H-MI-13,House,MI,2026 Michigan's 13th congressional district election results[42],OTH,Green,Raelyn Light,1549,0.57
+H-MN-01,House,MN,2026 Minnesota's 1st congressional district election[52],DEM,Democratic (DFL),Jake Johnson,163055,50
+H-MN-01,House,MN,2026 Minnesota's 1st congressional district election[52],REP,Republican,Brad Finstad,162733,49.9
+H-MN-02,House,MN,2026 Minnesota's 2nd congressional district election[52],DEM,Democratic (DFL),Matt Little,214255,57.1
+H-MN-02,House,MN,2026 Minnesota's 2nd congressional district election[52],REP,Republican,Eric Pratt,160636,42.8
+H-MN-03,House,MN,2026 Minnesota's 3rd congressional district election[52],DEM,Democratic (DFL),Kelly Morrison,242079,64
+H-MN-03,House,MN,2026 Minnesota's 3rd congressional district election[52],REP,Republican,Tyler Bass,135505,35.8
+H-MN-04,House,MN,2026 Minnesota's 4th congressional district election[52],DEM,Democratic (DFL),Betty McCollum,245699,73.1
+H-MN-04,House,MN,2026 Minnesota's 4th congressional district election[52],REP,Republican,Paul Wikstrom,90068,26.8
+H-MN-05,House,MN,2026 Minnesota's 5th congressional district election[52],DEM,Democratic (DFL),Ilhan Omar,262702,76.5
+H-MN-05,House,MN,2026 Minnesota's 5th congressional district election[52],REP,Republican,Joe Nagel,55765,16.2
+H-MN-05,House,MN,2026 Minnesota's 5th congressional district election[52],OTH,Independent,DeVelle L. Jackson,24110,7
+H-MN-06,House,MN,2026 Minnesota's 6th congressional district election[52],REP,Republican,Tom Emmer,204706,55.7
+H-MN-06,House,MN,2026 Minnesota's 6th congressional district election[52],DEM,Democratic (DFL),Doug Chapin,162213,44.2
+H-MN-07,House,MN,2026 Minnesota's 7th congressional district election[52],REP,Republican,Michelle Fischbach,214503,64.9
+H-MN-07,House,MN,2026 Minnesota's 7th congressional district election[52],DEM,Democratic (DFL),Erik Osberg,115805,35
+H-MN-08,House,MN,2026 Minnesota's 8th congressional district election[52],REP,Republican,Pete Stauber,190744,53.1
+H-MN-08,House,MN,2026 Minnesota's 8th congressional district election[52],DEM,Democratic (DFL),Trina Swanson,168350,46.8
+H-MO-01,House,MO,2026 Missouri's 1st congressional district election[56],DEM,Democratic,Wesley Bell,189175,81.51
+H-MO-01,House,MO,2026 Missouri's 1st congressional district election[56],REP,Republican,Paul Berry III,32308,13.92
+H-MO-01,House,MO,2026 Missouri's 1st congressional district election[56],OTH,Libertarian,Tom Schmitz,10613,4.57
+H-MO-02,House,MO,2026 Missouri's 2nd congressional district election[56],DEM,Democratic,Fred Wellman,169477,51.14
+H-MO-02,House,MO,2026 Missouri's 2nd congressional district election[56],REP,Republican,Ann Wagner,153132,46.21
+H-MO-02,House,MO,2026 Missouri's 2nd congressional district election[56],OTH,Libertarian,Brandon Daugherty,8782,2.65
+H-MO-03,House,MO,2026 Missouri's 3rd congressional district election[56],REP,Republican,Bob Onder,149239,52.88
+H-MO-03,House,MO,2026 Missouri's 3rd congressional district election[56],DEM,Democratic,Bethany E. Mann,32308,44.39
+H-MO-03,House,MO,2026 Missouri's 3rd congressional district election[56],OTH,Libertarian,Jim Higgins,7700,2.73
+H-MO-04,House,MO,2026 Missouri's 4th congressional district election[56],REP,Republican,Mark Alford,154236,61.46
+H-MO-04,House,MO,2026 Missouri's 4th congressional district election[56],DEM,Democratic,Jordan Herrera,89182,35.54
+H-MO-04,House,MO,2026 Missouri's 4th congressional district election[56],OTH,Libertarian,Thomas Holbrook,7289,2.91
+H-MO-05,House,MO,2026 Missouri's 5th congressional district election[56],DEM,Democratic,Emanuel Cleaver,179256,69.49
+H-MO-05,House,MO,2026 Missouri's 5th congressional district election[56],REP,Republican,Rick Brattin,32308,28.13
+H-MO-05,House,MO,2026 Missouri's 5th congressional district election[56],OTH,Libertarian,Randall Langkraehr,6128,2.38
+H-MO-06,House,MO,2026 Missouri's 6th congressional district election[56],REP,Republican,Chris Stigall,151219,58.65
+H-MO-06,House,MO,2026 Missouri's 6th congressional district election[56],DEM,Democratic,Josh Smead,100416,38.95
+H-MO-06,House,MO,2026 Missouri's 6th congressional district election[56],OTH,Libertarian,Andy Maidment,6028,2.34
+H-MO-07,House,MO,2026 Missouri's 7th congressional district election[56],REP,Republican,Eric Burlison,157599,62.15
+H-MO-07,House,MO,2026 Missouri's 7th congressional district election[56],DEM,Democratic,Missi Hesketh,89710,35.38
+H-MO-07,House,MO,2026 Missouri's 7th congressional district election[56],OTH,Libertarian,Kevin Craig,6100,2.41
+H-MO-08,House,MO,2026 Missouri's 8th congressional district election[56],REP,Republican,Jason Smith,152677,67.73
+H-MO-08,House,MO,2026 Missouri's 8th congressional district election[56],DEM,Democratic,Chris Reichard,65751,29.17
+H-MO-08,House,MO,2026 Missouri's 8th congressional district election[56],OTH,Libertarian,Rebecca Sharpe Lombard,6996,3.1
+H-MT-01,House,MT,2026 Montana's 1st congressional district election,DEM,Democratic,Sam Forstag,135096,50.5
+H-MT-01,House,MT,2026 Montana's 1st congressional district election,REP,Republican,Aaron Flint,124727,46.6
+H-MT-01,House,MT,2026 Montana's 1st congressional district election,OTH,Libertarian,Nick Sheedy,7719,2.9
+H-MT-02,House,MT,2026 Montana's 2nd congressional district election,REP,Republican,Troy Downing,128188,58.1
+H-MT-02,House,MT,2026 Montana's 2nd congressional district election,DEM,Democratic,Brian Miller,71179,32.3
+H-MT-02,House,MT,2026 Montana's 2nd congressional district election,OTH,Independent,Michael Eisenhauer,17198,7.8
+H-MT-02,House,MT,2026 Montana's 2nd congressional district election,OTH,Libertarian,Patrick McCracken,4046,1.8
+H-NE-02,House,NE,2026 Nebraska's 2nd congressional district election,DEM,Democratic,Denise Powell,145402,56.69
+H-NE-02,House,NE,2026 Nebraska's 2nd congressional district election,REP,Republican,Brinker Harding,104498,40.72
+H-NE-02,House,NE,2026 Nebraska's 2nd congressional district election,OTH,Libertarian,Eric Foreman,6677,2.6
+H-NV-01,House,NV,2026 Nevada's 1st congressional district election[45],DEM,Democratic,Dina Titus,142035,59.31
+H-NV-01,House,NV,2026 Nevada's 1st congressional district election[45],REP,Republican,Carrie Ann Buck,90024,37.59
+H-NV-01,House,NV,2026 Nevada's 1st congressional district election[45],OTH,Independent,"Steven ""Chap"" St John",4146,1.73
+H-NV-01,House,NV,2026 Nevada's 1st congressional district election[45],OTH,Independent,"Afzal ""Bobby"" Khan",3283,1.37
+H-NV-02,House,NV,2026 Nevada's 2nd congressional district election[89],DEM,Democratic,Teresa F. Benitez-Thompson,163773,50.41
+H-NV-02,House,NV,2026 Nevada's 2nd congressional district election[89],REP,Republican,David Flippo,143336,44.12
+H-NV-02,House,NV,2026 Nevada's 2nd congressional district election[89],OTH,Independent American,Lynn Chapman,17757,5.47
+H-NV-03,House,NV,2026 Nevada's 3rd congressional district election[106],DEM,Democratic,Susie Lee,162520,59.63
+H-NV-03,House,NV,2026 Nevada's 3rd congressional district election[106],REP,Republican,Martin O'Donnell,103629,38.02
+H-NV-03,House,NV,2026 Nevada's 3rd congressional district election[106],OTH,Independent American,Jon Kamerath,6390,2.34
+H-NV-04,House,NV,2026 Nevada's 4th congressional district election[114],DEM,Democratic,Steven Horsford,153396,60.47
+H-NV-04,House,NV,2026 Nevada's 4th congressional district election[114],REP,Republican,Cody K. Whipple,95401,37.61
+H-NV-04,House,NV,2026 Nevada's 4th congressional district election[114],OTH,Independent American,Russell Best,2570,1.01
+H-NV-04,House,NV,2026 Nevada's 4th congressional district election[114],OTH,Independent,William Johnson,2308,0.91
+H-NJ-02,House,NJ,2026 New Jersey's 2nd congressional district election[40],REP,Republican,Jeff Van Drew,130631,48.1
+H-NJ-02,House,NJ,2026 New Jersey's 2nd congressional district election[40],DEM,Democratic,Zack Mullock,137999,50.8
+H-NJ-02,House,NJ,2026 New Jersey's 2nd congressional district election[40],OTH,Independent,Ramon Mora Jr.,2836,1
+H-NJ-07,House,NJ,2026 New Jersey's 7th congressional district election[40],DEM,Democratic,Rebecca Bennett,193473,57.54
+H-NJ-07,House,NJ,2026 New Jersey's 7th congressional district election[40],REP,Republican,Thomas Kean Jr.,137562,40.91
+H-NJ-08,House,NJ,2026 New Jersey's 8th congressional district election[40],DEM,Democratic,Rob Menendez,112079,88.57
+H-NJ-08,House,NJ,2026 New Jersey's 8th congressional district election[40],OTH,Socialist Workers,Craig Honts,5406,4.27
+H-NJ-08,House,NJ,2026 New Jersey's 8th congressional district election[40],OTH,Independent,Aristotle Eliopoulos,5350,4.23
+H-NC-01,House,NC,2026 North Carolina's 1st congressional district election[78],DEM,Democratic,Don Davis,157490,50.1
+H-NC-01,House,NC,2026 North Carolina's 1st congressional district election[78],REP,Republican,Laurie Buckhout,146696,46.7
+H-NC-01,House,NC,2026 North Carolina's 1st congressional district election[78],OTH,Libertarian,Tom Bailey,9944,3.1
+H-NC-02,House,NC,2026 North Carolina's 2nd congressional district election[98],DEM,Democratic,Deborah Ross,246446,75
+H-NC-02,House,NC,2026 North Carolina's 2nd congressional district election[98],REP,Republican,Gene Douglass,76976,23.4
+H-NC-02,House,NC,2026 North Carolina's 2nd congressional district election[98],OTH,Libertarian,Matt Laszacs,4299,1.3
+H-NC-02,House,NC,2026 North Carolina's 2nd congressional district election[98],OTH,None,Brian McGinnis (Write-in),270,0.1
+H-NC-03,House,NC,2026 North Carolina's 3rd congressional district election[117],DEM,Democratic,Raymond Smith Jr.,118434,49.4
+H-NC-03,House,NC,2026 North Carolina's 3rd congressional district election[117],REP,Republican,Greg Murphy,118176,49.3
+H-NC-03,House,NC,2026 North Carolina's 3rd congressional district election[117],OTH,Libertarian,Daniel Cavender,3004,1.2
+H-NC-04,House,NC,2026 North Carolina's 4th congressional district election[149],DEM,Democratic,Valerie Foushee,284548,79.1
+H-NC-04,House,NC,2026 North Carolina's 4th congressional district election[149],REP,Republican,Max Ganorkar,68019,18.9
+H-NC-04,House,NC,2026 North Carolina's 4th congressional district election[149],OTH,Libertarian,Guy Meilleur,7004,1.9
+H-NC-05,House,NC,2026 North Carolina's 5th congressional district election[166],DEM,Democratic,Chuck Hubbard,139770,48.7
+H-NC-05,House,NC,2026 North Carolina's 5th congressional district election[166],REP,Republican,Virginia Foxx,139439,48.6
+H-NC-05,House,NC,2026 North Carolina's 5th congressional district election[166],OTH,Libertarian,Robert Luffman,7579,2.6
+H-NC-06,House,NC,2026 North Carolina's 6th congressional district election[175],DEM,Democratic,Cyril Jefferson,140707,51.2
+H-NC-06,House,NC,2026 North Carolina's 6th congressional district election[175],REP,Republican,Addison McDowell,134103,48.8
+H-NC-07,House,NC,2026 North Carolina's 7th congressional district election[189],REP,Republican,David Rouzer,160702,49.8
+H-NC-07,House,NC,2026 North Carolina's 7th congressional district election[189],DEM,Democratic,Kim Hardy,158391,49.1
+H-NC-07,House,NC,2026 North Carolina's 7th congressional district election[189],OTH,Libertarian,Maad Abu-Ghazalah,3173,0.9
+H-NC-08,House,NC,2026 North Carolina's 8th congressional district election[199],REP,Republican,Mark Harris,147683,50.3
+H-NC-08,House,NC,2026 North Carolina's 8th congressional district election[199],DEM,Democratic,Colby Watson,142659,48.6
+H-NC-08,House,NC,2026 North Carolina's 8th congressional district election[199],OTH,Green,Bo Whitehead,2909,0.9
+H-NC-09,House,NC,2026 North Carolina's 9th congressional district election[218],DEM,Democratic,Richard Ojeda,139456,51.1
+H-NC-09,House,NC,2026 North Carolina's 9th congressional district election[218],REP,Republican,Richard Hudson,133196,48.8
+H-NC-10,House,NC,2026 North Carolina's 10th congressional district election[238],REP,Republican,Pat Harrigan,146590,49.6
+H-NC-10,House,NC,2026 North Carolina's 10th congressional district election[238],DEM,Democratic,Ashley Bell,144081,48.7
+H-NC-10,House,NC,2026 North Carolina's 10th congressional district election[238],OTH,Libertarian,Steve Feldman,4710,1.6
+H-NC-11,House,NC,2026 North Carolina's 11th congressional district election[291],DEM,Democratic,Jamie Ager,196251,57.1
+H-NC-11,House,NC,2026 North Carolina's 11th congressional district election[291],REP,Republican,Jennifer Balkcom,141885,41.3
+H-NC-11,House,NC,2026 North Carolina's 11th congressional district election[291],OTH,Libertarian,Travis Groo,5369,1.5
+H-NC-12,House,NC,2026 North Carolina's 12th congressional district election[313],DEM,Democratic,Alma Adams,220770,81.2
+H-NC-12,House,NC,2026 North Carolina's 12th congressional district election[313],REP,Republican,Jack Codiga,51022,18.7
+H-NC-13,House,NC,2026 North Carolina's 13th congressional district election[326],DEM,Democratic,Paul Barringer,160860,50.5
+H-NC-13,House,NC,2026 North Carolina's 13th congressional district election[326],REP,Republican,Brad Knott,152864,48
+H-NC-13,House,NC,2026 North Carolina's 13th congressional district election[326],OTH,Libertarian,Steven Swinton,4511,1.4
+H-NC-14,House,NC,2026 North Carolina's 14th congressional district election[339],DEM,Democratic,LaKesha Womack,147920,51.1
+H-NC-14,House,NC,2026 North Carolina's 14th congressional district election[339],REP,Republican,Tim Moore,141353,48.8
+H-OH-01,House,OH,2026 Ohio's 1st congressional district election,DEM,Democratic,Greg Landsman,176453,54.4
+H-OH-01,House,OH,2026 Ohio's 1st congressional district election,REP,Republican,Eric Conroy,139343,42.9
+H-OH-01,House,OH,2026 Ohio's 1st congressional district election,OTH,Libertarian,Nathan Weise,8675,2.7
+H-OH-02,House,OH,2026 Ohio's 2nd congressional district election,REP,Republican,David Taylor,175411,64.2
+H-OH-02,House,OH,2026 Ohio's 2nd congressional district election,DEM,Democratic,Jennifer Mazzuckelli,97638,35.8
+H-OH-03,House,OH,2026 Ohio's 3rd congressional district election,DEM,Democratic,Joyce Beatty,231925,77.2
+H-OH-03,House,OH,2026 Ohio's 3rd congressional district election,REP,Republican,Cleophus Dulaney,68407,22.8
+H-OH-04,House,OH,2026 Ohio's 4th congressional district election,REP,Republican,Jim Jordan,197084,64.49
+H-OH-04,House,OH,2026 Ohio's 4th congressional district election,DEM,Democratic,Joshua Kolasinski,95497,31.25
+H-OH-04,House,OH,2026 Ohio's 4th congressional district election,OTH,Independent,Tracey Tackett,13005,4.26
+H-OH-05,House,OH,2026 Ohio's 5th congressional district election,REP,Republican,Bob Latta,163382,54.3
+H-OH-05,House,OH,2026 Ohio's 5th congressional district election,DEM,Democratic,Brian Shaver,128142,42.6
+H-OH-05,House,OH,2026 Ohio's 5th congressional district election,OTH,Libertarian,Michael Veloff,9577,3.2
+H-OH-06,House,OH,2026 Ohio's 6th congressional district election,REP,Republican,Michael Rulli,163675,60.4
+H-OH-06,House,OH,2026 Ohio's 6th congressional district election,DEM,Democratic,Elizabeth Kirtley,107310,39.6
+H-OH-07,House,OH,2026 Ohio's 7th congressional district election,DEM,Democratic,Brian Poindexter,180614,54.9
+H-OH-07,House,OH,2026 Ohio's 7th congressional district election,REP,Republican,Max Miller,148177,45.1
+H-OH-08,House,OH,2026 Ohio's 8th congressional district election,REP,Republican,Warren Davidson,168689,52.1
+H-OH-08,House,OH,2026 Ohio's 8th congressional district election,DEM,Democratic,Vanessa Enoch,154828,47.9
+H-OH-09,House,OH,2026 Ohio's 9th congressional district election,DEM,Democratic,Marcy Kaptur,159306,52.7
+H-OH-09,House,OH,2026 Ohio's 9th congressional district election,REP,Republican,Derek Merrin,142830,47.3
+H-OH-10,House,OH,2026 Ohio's 10th congressional district election,DEM,Democratic,Kristina Knickerbocker,149024,49.3
+H-OH-10,House,OH,2026 Ohio's 10th congressional district election,REP,Republican,Mike Turner,144086,47.7
+H-OH-10,House,OH,2026 Ohio's 10th congressional district election,OTH,Libertarian,Thomas McMasters,8906,2.9
+H-OH-11,House,OH,2026 Ohio's 11th congressional district election,DEM,Democratic,Shontel Brown,219971,83.5
+H-OH-11,House,OH,2026 Ohio's 11th congressional district election,REP,Republican,Mike Krichner,43373,16.5
+H-OH-12,House,OH,2026 Ohio's 12th congressional district election,REP,Republican,Troy Balderson,191926,59.4
+H-OH-12,House,OH,2026 Ohio's 12th congressional district election,DEM,Democratic,Jerrad Christian,131211,40.6
+H-OH-13,House,OH,2026 Ohio's 13th congressional district election,DEM,Democratic,Emilia Sykes,190593,60
+H-OH-13,House,OH,2026 Ohio's 13th congressional district election,REP,Republican,Carey Coleman,122078,38.4
+H-OH-13,House,OH,2026 Ohio's 13th congressional district election,OTH,Independent,Sandeep Dixit,5104,1.6
+H-OH-14,House,OH,2026 Ohio's 14th congressional district election,REP,Republican,David Joyce,179467,55
+H-OH-14,House,OH,2026 Ohio's 14th congressional district election,DEM,Democratic,Maria Jukic,146651,45
+H-OH-15,House,OH,2026 Ohio's 15th congressional district election,DEM,Democratic,Don Leonard,149287,51.9
+H-OH-15,House,OH,2026 Ohio's 15th congressional district election,REP,Republican,Mike Carey,130225,45.3
+H-OH-15,House,OH,2026 Ohio's 15th congressional district election,OTH,Libertarian,Brennan Barrington,8135,2.8
+H-OK-01,House,OK,2026 Oklahoma's 1st congressional district election[37],REP,Republican,Mark Tedford,121397,52.3
+H-OK-01,House,OK,2026 Oklahoma's 1st congressional district election[37],DEM,Democratic,John Croisant,110707,47.7
+H-OK-02,House,OK,2026 Oklahoma's 2nd congressional district election[37],REP,Republican,Josh Brecheen,144054,67.96
+H-OK-02,House,OK,2026 Oklahoma's 2nd congressional district election[37],DEM,Democratic,Brandon Wade,61409,28.97
+H-OK-02,House,OK,2026 Oklahoma's 2nd congressional district election[37],OTH,Independent,Ronnie Hopkins,6520,3.08
+H-OK-03,House,OK,2026 Oklahoma's 3rd congressional district election[37],REP,Republican,Frank Lucas,122181,63.96
+H-OK-03,House,OK,2026 Oklahoma's 3rd congressional district election[37],DEM,Democratic,Suzie Byrd,68832,36.04
+H-OK-04,House,OK,2026 Oklahoma's 4th congressional district election[37],REP,Republican,Tom Cole,125631,57.6
+H-OK-04,House,OK,2026 Oklahoma's 4th congressional district election[37],DEM,Democratic,Mitchell Jacob,86108,39.48
+H-OK-04,House,OK,2026 Oklahoma's 4th congressional district election[37],OTH,Independent,Rocco Bonacci,6389,2.93
+H-OK-05,House,OK,2026 Oklahoma's 5th congressional district election[37],REP,Republican,Stephanie Bice,131023,49.48
+H-OK-05,House,OK,2026 Oklahoma's 5th congressional district election[37],DEM,Democratic,Jena Nelson,127687,48.22
+H-OK-05,House,OK,2026 Oklahoma's 5th congressional district election[37],OTH,Independent,Robert Henri,4027,1.52
+H-OK-05,House,OK,2026 Oklahoma's 5th congressional district election[37],OTH,Independent,Austin Nieves,2047,0.77
+H-SC-01,House,SC,2026 South Carolina's 1st congressional district election[62],DEM,Democratic,Nancy Lacore,162103,49.66
+H-SC-01,House,SC,2026 South Carolina's 1st congressional district election[62],REP,Republican,Jenny Costa Honeycutt,158751,48.63
+H-SC-01,House,SC,2026 South Carolina's 1st congressional district election[62],OTH,Libertarian,Bill Reeside Jr.,5351,1.64
+H-SC-02,House,SC,2026 South Carolina's 2nd congressional district election[62],REP,Republican,Joe Wilson,147791,49.82
+H-SC-02,House,SC,2026 South Carolina's 2nd congressional district election[62],DEM,Democratic,Zyon Khalifa,144865,48.83
+H-SC-02,House,SC,2026 South Carolina's 2nd congressional district election[62],OTH,SCWP,Dayna Alane Smith,3674,1.24
+H-SC-03,House,SC,2026 South Carolina's 3rd congressional district election[62],REP,Republican,Sheri Biggs,173960,63.68
+H-SC-03,House,SC,2026 South Carolina's 3rd congressional district election[62],DEM,Democratic,Eunice Lehmacher,93955,34.39
+H-SC-03,House,SC,2026 South Carolina's 3rd congressional district election[62],OTH,Libertarian,Brian Corriea,5103,1.87
+H-SC-04,House,SC,2026 South Carolina's 4th congressional district election[62],REP,Republican,William Timmons,146944,51.71
+H-SC-04,House,SC,2026 South Carolina's 4th congressional district election[62],DEM,Democratic,Courtney McClain,129742,45.65
+H-SC-04,House,SC,2026 South Carolina's 4th congressional district election[62],OTH,Libertarian,Jessica Ethridge,7215,2.54
+H-SC-05,House,SC,2026 South Carolina's 5th congressional district election[62],REP,Republican,Wes Climer,151497,52.81
+H-SC-05,House,SC,2026 South Carolina's 5th congressional district election[62],DEM,Democratic,Mallory Dittmer,135203,47.13
+H-SC-06,House,SC,2026 South Carolina's 6th congressional district election[62],DEM,Democratic,Jim Clyburn,180840,69.36
+H-SC-06,House,SC,2026 South Carolina's 6th congressional district election[62],REP,Republican,John Peterson,79584,30.52
+H-SC-07,House,SC,2026 South Carolina's 7th congressional district election[62],REP,Republican,Russell Fry,172439,56.71
+H-SC-07,House,SC,2026 South Carolina's 7th congressional district election[62],DEM,Democratic,John Vincent,131445,43.23
+H-SD-AL,House,SD,2026 South Dakota's at-large congressional district election[34],REP,Republican,Marty Jackley,195589,64
+H-SD-AL,House,SD,2026 South Dakota's at-large congressional district election[34],DEM,Democratic,Nikki Gronli,109997,36
+H-TX-09,House,TX,2026 Texas's 9th congressional district election[135],DEM,Democratic,Leticia Gutierrez,98079,57.6
+H-TX-09,House,TX,2026 Texas's 9th congressional district election[135],REP,Republican,Alex Mealer,72340,42.4
+H-UT-01,House,UT,2026 Utah's 1st congressional district election,DEM,Democratic,Ben McAdams,165422,70.31
+H-UT-01,House,UT,2026 Utah's 1st congressional district election,REP,Republican,Riley Owen,61230,26.02
+H-UT-01,House,UT,2026 Utah's 1st congressional district election,OTH,Libertarian,Jesse West,5227,2.22
+H-UT-01,House,UT,2026 Utah's 1st congressional district election,OTH,Unaffiliated,Elias H. Montgomery,3330,1.42
+H-UT-02,House,UT,2026 Utah's 2nd congressional district election,REP,Republican,Blake Moore,126992,50.12
+H-UT-02,House,UT,2026 Utah's 2nd congressional district election,DEM,Democratic,Peter Crosby,106944,42.21
+H-UT-02,House,UT,2026 Utah's 2nd congressional district election,OTH,Utah Independent American Party,Carlton Bowen,8402,3.32
+H-UT-02,House,UT,2026 Utah's 2nd congressional district election,OTH,Unaffiliated,Robert Moesinger,6502,2.57
+H-UT-02,House,UT,2026 Utah's 2nd congressional district election,OTH,Libertarian,Daniel Cottam,4546,1.79
+H-UT-03,House,UT,2026 Utah's 3rd congressional district election,REP,Republican,Celeste Maloy,144009,57.1
+H-UT-03,House,UT,2026 Utah's 3rd congressional district election,DEM,Democratic,Kent Udell,89087,35.29
+H-UT-03,House,UT,2026 Utah's 3rd congressional district election,OTH,Constitution,Cassie Easley,7884,3.12
+H-UT-03,House,UT,2026 Utah's 3rd congressional district election,OTH,Libertarian,Michael Stoddard,5602,2.22
+H-VT-AL,House,VT,2026 Vermont's at-large congressional district election[34],DEM,Democratic,Becca Balint,198766,65.22
+H-VT-AL,House,VT,2026 Vermont's at-large congressional district election[34],REP,Republican,Gerald Malloy,94071,30.87
+H-VT-AL,House,VT,2026 Vermont's at-large congressional district election[34],OTH,Independent,Suzanne Seymour,4362,1.43
+H-VT-AL,House,VT,2026 Vermont's at-large congressional district election[34],OTH,Independent,Ryan P. Walton,2733,0.9
+H-VT-AL,House,VT,2026 Vermont's at-large congressional district election[34],OTH,Independent,Phoenix K. Altair,2347,0.77
+H-VT-AL,House,VT,2026 Vermont's at-large congressional district election[34],OTH,Independent,Adam Ortiz,2195,0.72
+H-WY-AL,House,WY,2026 Wyoming's at-large congressional district election[47],REP,Republican,Chuck Gray,99906,54.22
+H-WY-AL,House,WY,2026 Wyoming's at-large congressional district election[47],DEM,Democratic,Lisa Kinney,61689,33.48
+H-WY-AL,House,WY,2026 Wyoming's at-large congressional district election[47],OTH,Libertarian,Shawn Johnson,13667,7.42
+H-WY-AL,House,WY,2026 Wyoming's at-large congressional district election[47],OTH,Constitution,Jeffrey Haggit,7961,4.32
+SEN-AK,Senate,AK,2026 United States Senate election in Alaska[184][185],DEM,Democratic,Mary Peltola,141637,49.98
+SEN-AK,Senate,AK,2026 United States Senate election in Alaska[184][185],REP,Republican,Dan S. Sullivan,130162,45.93
+SEN-AK,Senate,AK,2026 United States Senate election in Alaska[184][185],REP,Republican,Gerald L. Heikes,6020,2.12
+SEN-AR,Senate,AR,2026 United States Senate election in Arkansas,REP,Republican,Tom Cotton,480802,54.26
+SEN-AR,Senate,AR,2026 United States Senate election in Arkansas,DEM,Democratic,Hallie Shoffner,375831,42.41
+SEN-AR,Senate,AR,2026 United States Senate election in Arkansas,OTH,Libertarian,Jeff Wadlin,29488,3.33
+SEN-DE,Senate,DE,2026 United States Senate election in Delaware[39][40],DEM,Democratic,Chris Coons,240587,63.35
+SEN-DE,Senate,DE,2026 United States Senate election in Delaware[39][40],REP,Republican,Michael Katz,137837,36.3
+SEN-GA,Senate,GA,2026 United States Senate election in Georgia,DEM,Democratic,Jon Ossoff,2466422,59.02
+SEN-GA,Senate,GA,2026 United States Senate election in Georgia,REP,Republican,Mike Collins,1712444,40.98
+SEN-ID,Senate,ID,2026 United States Senate election in Idaho[54],REP,Republican,Jim Risch,402983,56.5
+SEN-ID,Senate,ID,2026 United States Senate election in Idaho[54],OTH,Independent,Todd Achilles,239422,33.56
+SEN-ID,Senate,ID,2026 United States Senate election in Idaho[54],OTH,Independent,Natalie Fleming,50134,7.03
+SEN-ID,Senate,ID,2026 United States Senate election in Idaho[54],OTH,Libertarian,Matt Loesby,20742,2.91
+SEN-IA,Senate,IA,2026 United States Senate election in Iowa,DEM,Democratic,Josh Turek,688741,50.55
+SEN-IA,Senate,IA,2026 United States Senate election in Iowa,REP,Republican,Ashley Hinson,631481,46.36
+SEN-IA,Senate,IA,2026 United States Senate election in Iowa,OTH,Libertarian,Thomas Laehn,42109,3.09
+SEN-KS,Senate,KS,2026 United States Senate election in Kansas,DEM,Democratic,Adam Hamilton,571467,51.18
+SEN-KS,Senate,KS,2026 United States Senate election in Kansas,REP,Republican,Roger Marshall,511212,45.79
+SEN-KS,Senate,KS,2026 United States Senate election in Kansas,OTH,Libertarian,David Graham,33830,3.03
+SEN-KY,Senate,KY,2026 United States Senate election in Kentucky[113],REP,Republican,Andy Barr,784869,54.99
+SEN-KY,Senate,KY,2026 United States Senate election in Kentucky[113],DEM,Democratic,Charles Booker,612357,42.9
+SEN-KY,Senate,KY,2026 United States Senate election in Kentucky[113],OTH,Kentucky,Christopher Campbell,29892,2.09
+SEN-LA,Senate,LA,2026 United States Senate election in Louisiana,REP,Republican,Julia Letlow,746476,50.88
+SEN-LA,Senate,LA,2026 United States Senate election in Louisiana,DEM,Democratic,Jamie Davis,720521,49.12
+SEN-ME,Senate,ME,2026 United States Senate election in Maine,DEM,Democratic,Troy Jackson,376955,53.07
+SEN-ME,Senate,ME,2026 United States Senate election in Maine,REP,Republican,Susan Collins,332918,46.87
+SEN-MA,Senate,MA,2026 United States Senate election in Massachusetts[139],DEM,Democratic,Ed Markey,1650772,63.39
+SEN-MA,Senate,MA,2026 United States Senate election in Massachusetts[139],REP,Republican,John Deaton,837152,32.14
+SEN-MA,Senate,MA,2026 United States Senate election in Massachusetts[139],OTH,Independent,Shiva Ayyadurai,59837,2.3
+SEN-MA,Senate,MA,2026 United States Senate election in Massachusetts[139],OTH,Socialism and Liberation,Joe Tache,56530,2.17
+SEN-MN,Senate,MN,2026 United States Senate election in Minnesota,DEM,Democratic (DFL),Peggy Flanagan,1520871,53.7
+SEN-MN,Senate,MN,2026 United States Senate election in Minnesota,REP,Republican,Michele Tafoya,1233476,43.56
+SEN-MN,Senate,MN,2026 United States Senate election in Minnesota,OTH,Independent,Marisa Simonetti,41574,1.47
+SEN-MN,Senate,MN,2026 United States Senate election in Minnesota,OTH,Libertarian,Rebecca Whiting,32493,1.15
+SEN-MS,Senate,MS,2026 United States Senate election in Mississippi[87][88],DEM,Democratic,Scott Colom,480153,49.36
+SEN-MS,Senate,MS,2026 United States Senate election in Mississippi[87][88],REP,Republican,Cindy Hyde-Smith,472122,48.54
+SEN-MS,Senate,MS,2026 United States Senate election in Mississippi[87][88],OTH,Independent,Ty Pinkins,20469,2.1
+SEN-MT,Senate,MT,2026 United States Senate election in Montana,REP,Republican,Kurt Alme,235549,48.16
+SEN-MT,Senate,MT,2026 United States Senate election in Montana,OTH,Independent,Seth Bodnar,184551,37.74
+SEN-MT,Senate,MT,2026 United States Senate election in Montana,DEM,Democratic,Alani Bankhead,59950,12.26
+SEN-MT,Senate,MT,2026 United States Senate election in Montana,OTH,Libertarian,Kyle Austin,9013,1.84
+SEN-NE,Senate,NE,2026 United States Senate election in Nebraska,REP,Republican,Pete Ricketts,381330,49.95
+SEN-NE,Senate,NE,2026 United States Senate election in Nebraska,OTH,Independent,Dan Osborn,336409,44.07
+SEN-NE,Senate,NE,2026 United States Senate election in Nebraska,OTH,Working People,Robin Richards,19889,2.6
+SEN-NE,Senate,NE,2026 United States Senate election in Nebraska,OTH,Legal Marijuana NOW,Mike Marvin (withdrawn),16553,2.17
+SEN-NE,Senate,NE,2026 United States Senate election in Nebraska,OTH,America First,Chuck Conboy,9224,1.21
+SEN-NH,Senate,NH,2026 United States Senate election in New Hampshire,DEM,Democratic,Chris Pappas,356425,55.91
+SEN-NH,Senate,NH,2026 United States Senate election in New Hampshire,REP,Republican,John E. Sununu,268712,42.19
+SEN-NH,Senate,NH,2026 United States Senate election in New Hampshire,OTH,Constitution,Edmond J. LaPlante Jr.,12081,1.9
+SEN-NJ,Senate,NJ,2026 United States Senate election in New Jersey,DEM,Democratic,Cory Booker,1862747,62.58
+SEN-NJ,Senate,NJ,2026 United States Senate election in New Jersey,REP,Republican,Justin Murphy,1035906,34.8
+SEN-NJ,Senate,NJ,2026 United States Senate election in New Jersey,OTH,Socialist Workers,Joanne Kuniansky,28290,0.95
+SEN-NM,Senate,NM,2026 United States Senate election in New Mexico,DEM,Democratic,Ben Ray Luján,458756,63.26
+SEN-NM,Senate,NM,2026 United States Senate election in New Mexico,REP,Republican,Larry Marker,266434,36.74
+SEN-NC,Senate,NC,2026 United States Senate election in North Carolina[186],DEM,Democratic,Roy Cooper,2480640,58.75
+SEN-NC,Senate,NC,2026 United States Senate election in North Carolina[186],REP,Republican,Michael Whatley,1648870,39.05
+SEN-NC,Senate,NC,2026 United States Senate election in North Carolina[186],OTH,Libertarian,Shannon W. Bray,56084,1.33
+SEN-NC,Senate,NC,2026 United States Senate election in North Carolina[186],OTH,Green,Michael Dublin,36710,0.87
+SEN-OK,Senate,OK,2026 United States Senate election in Oklahoma[61],REP,Republican,Kevin Hern,639860,57.2
+SEN-OK,Senate,OK,2026 United States Senate election in Oklahoma[61],DEM,Democratic,N'Kiyla Jasmine Thomas,439522,39.29
+SEN-OK,Senate,OK,2026 United States Senate election in Oklahoma[61],OTH,Independent,Curtis Stinnett,14635,1.31
+SEN-OK,Senate,OK,2026 United States Senate election in Oklahoma[61],OTH,Independent,Ron Meinhardt,14504,1.3
+SEN-OK,Senate,OK,2026 United States Senate election in Oklahoma[61],OTH,Libertarian,Sevier White,10209,0.91
+SEN-RI,Senate,RI,2026 United States Senate election in Rhode Island,DEM,Democratic,Jack Reed,240686,66.79
+SEN-RI,Senate,RI,2026 United States Senate election in Rhode Island,REP,Republican,Raymond McKay,105453,29.26
+SEN-RI,Senate,RI,2026 United States Senate election in Rhode Island,OTH,Independent,Michael Bahry,13562,3.76
+SEN-SC,Senate,SC,2026 United States Senate election in South Carolina[232],DEM,Democratic,Annie Andrews,1044001,51.14
+SEN-SC,Senate,SC,2026 United States Senate election in South Carolina[232],REP,Republican,Darline Graham,952191,46.64
+SEN-SC,Senate,SC,2026 United States Senate election in South Carolina[232],OTH,Libertarian,Kasie Whitener,23585,1.16
+SEN-SC,Senate,SC,2026 United States Senate election in South Carolina[232],OTH,Constitution,Mark Hackett,16811,0.82
+SEN-SD,Senate,SD,2026 United States Senate election in South Dakota[57],REP,Republican,Mike Rounds,184590,60.5
+SEN-SD,Senate,SD,2026 United States Senate election in South Dakota[57],OTH,Independent,Brian Bengs,120513,39.5
+SEN-TN,Senate,TN,2026 United States Senate election in Tennessee[38],REP,Republican,Bill Hagerty,1138436,55.08
+SEN-TN,Senate,TN,2026 United States Senate election in Tennessee[38],DEM,Democratic,Marquita Bradshaw,886974,42.91
+SEN-TN,Senate,TN,2026 United States Senate election in Tennessee[38],OTH,Independent,Robert Jones,9398,0.46
+SEN-TN,Senate,TN,2026 United States Senate election in Tennessee[38],OTH,Independent,Tharon Chandler,7689,0.37
+SEN-TN,Senate,TN,2026 United States Senate election in Tennessee[38],OTH,Independent,Andrew Gerena,5633,0.27
+SEN-TN,Senate,TN,2026 United States Senate election in Tennessee[38],OTH,Independent,"Catherine Barcel ""Barcy"" Whitson",5113,0.25
+SEN-TN,Senate,TN,2026 United States Senate election in Tennessee[38],OTH,Independent,Jeremy Dean Hearn,4937,0.24
+SEN-TN,Senate,TN,2026 United States Senate election in Tennessee[38],OTH,Independent,"David Sutman, Jr.",3087,0.15
+SEN-TN,Senate,TN,2026 United States Senate election in Tennessee[38],OTH,Independent,Yoshi D. Matthews,3026,0.15
+SEN-TN,Senate,TN,2026 United States Senate election in Tennessee[38],OTH,Independent,James William Macon III,2576,0.12
+SEN-VA,Senate,VA,2026 United States Senate election in Virginia,DEM,Democratic,Mark Warner,2251626,61.6
+SEN-VA,Senate,VA,2026 United States Senate election in Virginia,REP,Republican,Bert Mizusawa,1393714,38.13
+SEN-WV,Senate,WV,2026 United States Senate election in West Virginia,REP,Republican,Shelley Moore Capito,266772,58.33
+SEN-WV,Senate,WV,2026 United States Senate election in West Virginia,DEM,Democratic,Rachel Fetty Anderson,173656,37.91
+SEN-WV,Senate,WV,2026 United States Senate election in West Virginia,OTH,Constitution,S. Marshall Wilson,17183,3.76
+SEN-WY,Senate,WY,2026 United States Senate election in Wyoming[41],REP,Republican,Harriet Hageman,122174,64.88
+SEN-WY,Senate,WY,2026 United States Senate election in Wyoming[41],DEM,Democratic,James Byrd,65105,34.57
+SEN-OHS,Senate,OH,2026 United States Senate special election in Ohio,DEM,Democratic,Sherrod Brown,2302669,50.01
+SEN-OHS,Senate,OH,2026 United States Senate special election in Ohio,REP,Republican,Jon Husted,2080064,45.17
+SEN-OHS,Senate,OH,2026 United States Senate special election in Ohio,OTH,Libertarian,Bill Redpath,128341,2.79
+SEN-OHS,Senate,OH,2026 United States Senate special election in Ohio,OTH,Independent,Greg Levy,93786,2.04
+SEN-FLS,Senate,FL,2026 United States Senate special election in Florida,REP,Republican,Ashley Moody,4211733,50.86
+SEN-FLS,Senate,FL,2026 United States Senate special election in Florida,DEM,Democratic,Angie Nixon,3975375,48
+SEN-FLS,Senate,FL,2026 United States Senate special election in Florida,OTH,Independent,Neil J. Gillespie,94681,1.14

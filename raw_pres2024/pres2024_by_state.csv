@@ -1,0 +1,52 @@
+state_name,state,harris_pct,trump_pct,margin_d_minus_r
+Alabama,AL,34.1,64.6,-30.5
+Alaska,AK,41.4,54.5,-13.1
+Arizona,AZ,46.7,52.2,-5.5
+Arkansas,AR,33.6,64.2,-30.6
+California,CA,58.5,38.3,20.2
+Colorado,CO,54.1,43.1,11.0
+Connecticut,CT,56.4,41.9,14.5
+Delaware,DE,56.5,41.8,14.7
+District of Columbia,DC,90.3,6.5,83.8
+Florida,FL,43.0,56.1,-13.1
+Georgia,GA,48.5,50.7,-2.2
+Hawaii,HI,60.6,37.5,23.1
+Idaho,ID,30.4,66.9,-36.5
+Illinois,IL,54.4,43.5,10.9
+Indiana,IN,39.6,58.6,-19.0
+Iowa,IA,42.5,55.7,-13.2
+Kansas,KS,41.0,57.2,-16.2
+Kentucky,KY,33.9,64.5,-30.6
+Louisiana,LA,38.2,60.2,-22.0
+Maine,ME,52.4,45.5,6.9
+Maryland,MD,62.6,34.1,28.5
+Massachusetts,MA,61.2,36.0,25.2
+Michigan,MI,48.3,49.7,-1.4
+Minnesota,MN,50.9,46.7,4.2
+Mississippi,MS,38.0,60.9,-22.9
+Missouri,MO,40.1,58.5,-18.4
+Montana,MT,38.5,58.4,-19.9
+Nebraska,NE,38.9,59.3,-20.4
+Nevada,NV,47.5,50.6,-3.1
+New Hampshire,NH,50.7,47.9,2.8
+New Jersey,NJ,52.0,46.1,5.9
+New Mexico,NM,51.9,45.9,6.0
+New York,NY,55.9,43.3,12.6
+North Carolina,NC,47.6,50.9,-3.3
+North Dakota,ND,30.5,67.0,-36.5
+Ohio,OH,43.9,55.1,-11.2
+Oklahoma,OK,31.9,66.2,-34.3
+Oregon,OR,55.3,41.0,14.3
+Pennsylvania,PA,48.7,50.4,-1.7
+Rhode Island,RI,55.6,41.8,13.8
+South Carolina,SC,40.4,58.2,-17.8
+South Dakota,SD,34.2,63.4,-29.2
+Tennessee,TN,34.5,64.2,-29.7
+Texas,TX,42.5,56.1,-13.6
+Utah,UT,37.8,59.4,-21.6
+Vermont,VT,63.8,32.3,31.5
+Virginia,VA,51.8,46.1,5.7
+Washington,WA,57.2,39.0,18.2
+West Virginia,WV,28.1,70.0,-41.9
+Wisconsin,WI,48.7,49.6,-0.9
+Wyoming,WY,25.8,71.6,-45.8
