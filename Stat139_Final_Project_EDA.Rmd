@@ -1,0 +1,141 @@
+---
+title: "Stat 139 Final Project EDA"
+author: "Kiran Bishop, Charlie Scheuermann, Christian Armaly"
+fontsize: 11pt
+geometry: margin=1in
+header-includes:
+  - \usepackage{xcolor}
+  - \usepackage{amsmath}
+output:
+  pdf_document:
+    fig_width: 5
+    fig_height: 3.5
+---
+
+**We used Claude to consolidate our data into one CSV file for analysis. The Kalshi data was taken from the public API, and the midterms and presidential election data was scraped from Wikipedia by Claude.**
+
+```{r}
+races<-read.csv("clean/races.csv")
+summary(races)
+```
+
+
+
+Our response variable is `forecast_error`, which is
+
+\[
+(\texttt{prob\_final} - \texttt{favorite\_won})^2
+\]
+
+which measures how far off Kalshi's final pre-election prediction was from the actual outcome of each race. 
+```{r}
+summary(races$forecast_error)
+```
+
+```{r}
+subset(
+  races,
+  is.na(forecast_error),
+  select = c(race_key, chamber, state, district, market_status, favorite_won)
+)
+```
+
+Ten Kalshi markets were still active when we collected the data. By November 17, Kalshi had settled CA-23 and NC-07 in favor of their pre-election favorites, Jay Obernolte and David Rouzer, respectively. We manually coded both outcomes as wins for the favorite and calculated their squared forecast errors using the original pre-election probabilities. Six other markets remained active as of November 17: Alaska Senate, Alaska at-large House, MN-01, NC-05, NC-10, and TN-04. The markets for LA-05 and LA-06 also remained active, with both races headed to December 12 runoffs. We excluded these eight unsettled markets from the forecast-error analysis, leaving 449 races.
+
+
+
+**Excluding the Active Markets from Analysis**
+```{r}
+settled <- races$race_key %in% c("H-CA-23", "H-NC-07")
+
+races$market_status[settled] <- "finalized"
+races$favorite_won[settled] <- 1L
+races$forecast_error[settled] <- (races$prob_final[settled] - 1)^2
+
+races_analysis <- subset(races, !is.na(forecast_error))
+```
+
+
+```{r}
+races$abs_pres_margin_2024 <- abs(races$pres_margin_2024)
+continuous_vars <- c("forecast_error", "prob_final", "contract_volume_race", "market_uncertainty", "abs_pres_margin_2024", "fundraising_log_ratio")
+
+continuous_summary <- data.frame()
+
+for (var in continuous_vars) {
+  x <- races[[var]]
+  
+  new_row <- data.frame(
+    Variable = var,
+    Missing = sum(is.na(x)),
+    Observed = sum(!is.na(x)),
+    Min = min(x, na.rm = TRUE),
+    Q1 = quantile(x, 0.25, na.rm = TRUE, names = FALSE),
+    Median = median(x, na.rm = TRUE),
+    Mean = mean(x, na.rm = TRUE),
+    Q3 = quantile(x, 0.75, na.rm = TRUE, names = FALSE),
+    Max = max(x, na.rm = TRUE),
+    SD = sd(x, na.rm = TRUE)
+  )
+  
+  continuous_summary <- rbind(continuous_summary, new_row)
+}
+
+table_tex <- knitr::kable(continuous_summary, format = "latex", digits = 4)
+
+knitr::asis_output(paste0(
+  "\\noindent\\resizebox{\\linewidth}{!}{%\n",
+  paste(table_tex, collapse = "\n"),
+  "\n}\n"
+))
+```
+
+```{r}
+table(races$favorite_won, useNA = "always")
+table(races$chamber, useNA = "always")
+table(races$incumbency_status, useNA = "always")
+```
+
+```{r}
+library(ggplot2)
+plot_data <- subset(races, !is.na(forecast_error))
+
+ggplot(plot_data, aes(x = contract_volume_race, y = forecast_error)) +
+  geom_point(alpha = 0.5) +
+  scale_x_log10(
+    breaks = c(1e3, 1e4, 1e5, 1e6, 1e7),
+    labels = c("1,000", "10,000", "100,000", "1M", "10M")
+  ) +
+  labs(
+    title = "Squared forecast error vs. trading volume",
+    x = "Pre-election trading volume (contracts)",
+    y = "Squared forecast error"
+  ) +
+  theme_minimal()
+```
+
+```{r}
+ggplot(plot_data, aes(x = contract_volume_race)) +
+  geom_histogram(bins = 30, fill = "cadetblue1", color = "white") +
+  labs(
+    title = "Squared forecast error vs. trading volume",
+    x = "Pre-election trading volume (contracts)",
+    y = "Squared forecast error"
+  ) +
+  theme_minimal()
+
+```
+
+```{r}
+ggplot(plot_data, aes(x = contract_volume_race)) +
+  geom_histogram(bins = 30, fill = "cadetblue1", color = "white") +
+  scale_x_log10() +
+  labs(
+    title = "Squared forecast error vs. trading volume",
+    x = "Pre-election trading volume (contracts)",
+    y = "Squared forecast error"
+  ) +
+  theme_minimal()
+
+```
+
